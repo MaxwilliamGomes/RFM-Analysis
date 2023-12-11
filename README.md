@@ -21,8 +21,9 @@ Na análise foram identificados 8 segmentos de públicos onde cada qual trago um
 
 ## 3 - Dicionário de dados
 
+## 4 - Analysis
 
-## 4 - Conclusões
+## 5 - Conclusões
 Champions (111) são os clientes que mais contribuem para o seu negócio. Você deve concentrar seus esforços de marketing e vendas nesses clientes para manter sua fidelidade. Ótimos clientes para se criar lookalike.
 
 Loyals (112) são clientes que também são valiosos para o seu negócio, mas não tanto quanto os Champions. Você deve continuar a nutrir esses clientes para que eles continuem a comprar de você.
@@ -39,5 +40,8 @@ At- Risk (212) são clientes que não compraram de você há algum tempo. Eles p
 
 Lost (222) são clientes que estão lutando para se manterem relevantes para sua empresa. Deve-se trabalhar para descobrir por que esses clientes estão lutando e tomar medidas para ajudá-los a melhorar.
 
-## 5 - Dashboard de acompanhamento
+## 6 - Recomendações
+
+
+## 7 - Dashboard de acompanhamento
 https://app.powerbi.com/view?r=eyJrIjoiY2IwOTQwZjktZDNlYy00NWEyLTgwMDktNDQxYzdkNmI2NGE3IiwidCI6IjI2MjEzZmVjLWExMTEtNDYxOC1hYzkwLTMwMDkxYTgwODdiNiJ9
