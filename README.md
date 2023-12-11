@@ -22,9 +22,9 @@ Na análise foram identificados 8 segmentos de públicos onde cada qual trago um
 ## 3 - Dicionário de dados
 ![HRhd2Y0](https://github.com/MaxwilliamGomes/RFM-Analysis/assets/117930231/54b647f6-8693-4479-91ba-d03dc0ef8a02)
 
-https://github.com/MaxwilliamGomes/RFM-Analysis/blob/47a3ab748bdfe72ff7a8a904681cf0257f166a3c/Dicion%C3%A1rio%20de%20Dados
+Dicionário de dados completo -> https://github.com/MaxwilliamGomes/RFM-Analysis/blob/47a3ab748bdfe72ff7a8a904681cf0257f166a3c/Dicion%C3%A1rio%20de%20Dados
 
-fonte dos dados: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Fonte dos dados: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## 4 - Analysis
 
