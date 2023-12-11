@@ -1,0 +1,44 @@
+Customers dataset:
+customer_id (identificação do cliente)
+customer_unique_id (identificação única do cliente)
+customer_zip_code_prefix (prefixo do CEP do cliente)
+customer_city (cidade do cliente)
+customer_state (estado do cliente)
+
+
+Orders dataset:
+order_id (identificação do pedido)
+customer_id (identificação do cliente)
+order_status (status do pedido)
+order_purchase_timestamp (timestamp de compra do pedido)
+order_approved_at (timestamp de aprovação do pedido)
+order_delivered_carrier_date (timestamp de entrega ao transportador)
+order_delivered_customer_date (timestamp de entrega ao cliente)
+order_estimated_delivery_date (data estimada de entrega do pedido)
+
+Order_payments dataset:
+order_id (identificação do pedido)
+payment_sequential (sequência de pagamento)
+payment_type (tipo de pagamento)
+payment_installments (parcelas de pagamento)
+payment_value (valor do pagamento)
+
+Products dataset:
+product_id (identificação do produto)
+product_category_name (nome da categoria do produto)
+product_name_length (comprimento do nome do produto)
+product_description_length (comprimento da descrição do produto)
+product_photos_qty (quantidade de fotos do produto)
+product_weight_g (peso do produto em gramas)
+product_length_cm (comprimento do produto em centímetros)
+product_height_cm (altura do produto em centímetros)
+product_width_cm (largura do produto em centímetros)
+
+order_items dataset:
+order_id (identificação do pedido)
+order_item_id (identificação do item do pedido)
+product_id (identificação do produto)
+seller_id (identificação do vendedor)
+shipping_limit_date (data limite de envio)
+price (preço do item)
+freight_value (valor do frete)
