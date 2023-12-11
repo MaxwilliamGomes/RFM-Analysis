@@ -22,7 +22,7 @@ Na análise foram identificados 8 segmentos de públicos onde cada qual trago um
 ## 3 - Dicionário de dados
 
 ## 4 - Analysis
-Análise_de_segmentação_de_clientes_Olist (1).ipynb
+[Análise_de_segmentação_de_clientes_Olist (1).ipynb](https://github.com/MaxwilliamGomes/RFM-Analysis/blob/6c963ed88792884b664a2189bfbac6d737cd2a99/An%C3%A1lise_de_segmenta%C3%A7%C3%A3o_de_clientes_Olist%20(1).ipynb)
 ## 5 - Conclusões
 Champions (111) são os clientes que mais contribuem para o seu negócio. Você deve concentrar seus esforços de marketing e vendas nesses clientes para manter sua fidelidade. Ótimos clientes para se criar lookalike.
 
