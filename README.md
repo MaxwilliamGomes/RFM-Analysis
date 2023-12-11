@@ -20,6 +20,7 @@ A análise identifica distintos segmentos de clientes com base em recência, fre
 Na análise foram identificados 8 segmentos de públicos onde cada qual trago uma conclusão e recomendação de ação em campanhas de mídia paga para as plataformas do meta ads e google ads
 
 ## 3 - Dicionário de dados
+![HRhd2Y0](https://github.com/MaxwilliamGomes/RFM-Analysis/assets/117930231/54b647f6-8693-4479-91ba-d03dc0ef8a02)
 
 ## 4 - Analysis
 
