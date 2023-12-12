@@ -27,8 +27,12 @@ Dicionário de dados completo -> https://github.com/MaxwilliamGomes/RFM-Analysis
 Fonte dos dados: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## 4 - Analysis
-
+Análise descritiva e criação da tabela RFM:
 (https://github.com/MaxwilliamGomes/RFM-Analysis/blob/6c963ed88792884b664a2189bfbac6d737cd2a99/An%C3%A1lise_de_segmenta%C3%A7%C3%A3o_de_clientes_Olist%20(1).ipynb)
+
+Dashboard com a análise do comportamento de compra por tipo de cliente :
+https://app.powerbi.com/view?r=eyJrIjoiY2IwOTQwZjktZDNlYy00NWEyLTgwMDktNDQxYzdkNmI2NGE3IiwidCI6IjI2MjEzZmVjLWExMTEtNDYxOC1hYzkwLTMwMDkxYTgwODdiNiJ9
+
 
 ## 5 - Conclusões
 Champions (111) são os clientes que mais contribuem para o seu negócio. Você deve concentrar seus esforços de marketing e vendas nesses clientes para manter sua fidelidade. Ótimos clientes para se criar lookalike.
@@ -51,5 +55,4 @@ Lost (222) são clientes que estão lutando para se manterem relevantes para sua
 
 https://github.com/MaxwilliamGomes/RFM-Analysis/blob/6c963ed88792884b664a2189bfbac6d737cd2a99/Recomenda%C3%A7%C3%B5es
 
-## 7 - Dashboard de acompanhamento
-https://app.powerbi.com/view?r=eyJrIjoiY2IwOTQwZjktZDNlYy00NWEyLTgwMDktNDQxYzdkNmI2NGE3IiwidCI6IjI2MjEzZmVjLWExMTEtNDYxOC1hYzkwLTMwMDkxYTgwODdiNiJ9
+
